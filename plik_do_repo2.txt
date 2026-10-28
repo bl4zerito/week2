@@ -1,0 +1,6 @@
+
+print("siema @s , co tam?") @imie
+
+imie = input("twe imie?")
+
+
