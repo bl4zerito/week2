@@ -1,6 +1,6 @@
 
-print("siema @s , co tam?") @imie
+print("cześć %s , co tam?") %imie
 
-imie = input("twe imie?")
+imie = input("twoje imie?")
 
 
